@@ -1,0 +1,3 @@
+A RNN model used to predict student performance.
+Data is from skill-builder dataset. https://sites.google.com/site/assistmentsdata/home/assistment-2009-2010-data
+Basic data cleaning was applied. 
